@@ -1,0 +1,19 @@
+export const Z_INDEX_LEVEL = {
+  HEADER: 999,
+};
+
+export const DESKTOP_SCREEN_SIZE = 1080;
+export const MOBILE_SCREEN_SIZE = 800;
+
+export const HEIGHTS = {
+  HEADER_DESKTOP: 60,
+  HEADER_MOBILE: 48,
+  FOOTER: 200,
+  PADDING_BOTTOM_MOBILE: 48,
+  PADDING_BOTTOM_DESKTOP: 60,
+};
+
+export const QUERY_KEYS = {
+  CATEGORY_LIST: 'CATEGORY_LIST',
+  BOOK_LIST: 'BOOK_LIST',
+};
