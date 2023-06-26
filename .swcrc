@@ -1,0 +1,16 @@
+{
+  "jsc": {
+    "parser": {
+      "syntax": "typescript",
+      "tsx": true
+    },
+    // @jsxImportSource @emotion/react automatic 기본 설정
+    "transform": {
+      "react": {
+        "runtime": "automatic",
+        "refresh": true,
+        "importSource": "@emotion/react"
+      }
+    }
+  }
+}
